@@ -10,5 +10,4 @@
 <script src="https://example.com/fontawesome/v6.5.2/js/solid.js"></script>
 <script src="https://example.com/fontawesome/v6.5.2/js/brands.js"></script>
 </body>
-
 </html>

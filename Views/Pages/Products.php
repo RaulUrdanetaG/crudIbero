@@ -4,7 +4,6 @@
     Agregar producto
   </a>
   <br>
-
   <div class="table-responsive p-3">
     <table class="table table-hover">
       <thead>

@@ -6,7 +6,6 @@ class ProductController
   {
     $table = "productos";
     $data = Products::showProducts($table);
-
     return $data;
   }
 

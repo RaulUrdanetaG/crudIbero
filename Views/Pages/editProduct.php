@@ -11,6 +11,7 @@ $price = $response['Precio'];
 $category = $response['Categoria'];
 $stock = $response['Stock'];
 
+
 if ($_POST) {
 
   // gets the information from formulary and sets it to vars

@@ -14,7 +14,6 @@ class Connection
     } catch (Exception $err) {
       echo $err->getMessage();
     }
-
     return $connection;
   }
 }

@@ -44,5 +44,4 @@ $products = ProductController::showProducts();
   </div>
   <?php include ("C://xampp/htdocs/crudIbero/Views/Modules/footer.php"); ?>
 </body>
-
 </html>
