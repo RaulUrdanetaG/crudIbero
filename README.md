@@ -1,5 +1,6 @@
 ![final app gif](./finalApp.gif)
 
+
 # Base de datos
 * Para la base de datos sera necesario crear dicha base de datos en mysql con el nombre `cruduibero`, asegurandose que este hosteada en 127.0.0.1 en el puerto 3306
 * Crear una tabla con el nombre `productos`

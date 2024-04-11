@@ -8,7 +8,7 @@ class Connection
     $user = "root";
     $pass = "";
     $db = "cruduibero";
-
+    
     try {
       $connection = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
     } catch (Exception $err) {

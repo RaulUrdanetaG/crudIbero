@@ -13,7 +13,6 @@ if ($_POST) {
 
 ?>
 
-
 <form method="post" class='p-5'>
   <div class="mb-3">
     <label for="name">Nombre</label>

@@ -6,7 +6,6 @@ if (isset($_GET['id'])) {
 $productResponse = ProductController::getProduct($id);
 $product = $productResponse['Producto'];
 
-
 if ($_POST) {
   $id = (isset($_POST["id"])) ? $_POST["id"] : "";
   ProductController::deleteProduct($id);

@@ -8,6 +8,7 @@ class Products
     $query->execute();
 
     $response = $query->fetchAll();
+    
     return $response;
   }
 

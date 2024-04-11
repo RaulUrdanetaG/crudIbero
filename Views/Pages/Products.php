@@ -42,5 +42,4 @@
     </table>
   </div>
 </div>
-
 <?php include ("C://xampp/htdocs/crudIbero/Views/Modules/delete.modal.php"); ?>
